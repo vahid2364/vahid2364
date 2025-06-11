@@ -39,4 +39,4 @@ I’m an Assistant Professor passionate about the intersection of AI and materia
 ---
 
 ### 📈 GitHub Stats:
-![Vahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Vahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=vahid2364&show_icons=true&theme=default)
