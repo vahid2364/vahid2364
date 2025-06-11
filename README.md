@@ -1,14 +1,11 @@
 ## Hi 👋, I'm Vahid Attari
 
-
-**vahid2364/vahid2364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m an Assistant Professor passionate about the intersection of AI and materials science. My research focuses on developing intelligent systems to accelerate the design and discovery of advanced materials.
 
 🔬 I specialize in:
 - **Bayesian optimization** and **deep learning** for materials informatics
 - **High-entropy alloys (HEAs)** and their mechanical and thermodynamic optimization
-- **Energy materials** with an emphasis on thermal conductivity, diffusion, and phase stability
+- **Energy materials** with an emphasis on Battery Cell Engineering 
 - Building frameworks for **multi-objective optimization** in materials design
 
 ⚡ I lead projects that aim to:
@@ -21,10 +18,10 @@ I’m an Assistant Professor passionate about the intersection of AI and materia
 - Modular tools for **multi-objective Bayesian optimization** in composition–property relationships
 
 🧠 I'm also expanding into areas like:
-- Retrieval-Augmented Generation (RAG) for materials knowledge
+- Guiding **Bayesian optimization** with contextual reasoning to incorporate domain knowledge and application-specific constraints, enabling more informed exploration and efficient convergence in materials design tasks.
 - Generative models for microstructure-informed design
 
-📫 Reach me at: your-email@domain.com  
+📫 Reach me at: attari.v@tamu.edu 
 🌐 Website: [datascribe.cloud](https://datascribe.cloud)
 
 
@@ -34,8 +31,9 @@ I’m an Assistant Professor passionate about the intersection of AI and materia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ---
